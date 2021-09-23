@@ -1,13 +1,13 @@
 ---
-title: Jekyll Serif Theme
+title: eCommerce Integrations
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: eCommerce Integration services - design, install, configure, host
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# eCommerce Integrations
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+A new systems integration business focussing on eCommerce, founded by [Tim Abell](https://www.linkedin.com/in/timabell/) and currently trading as Charm Consulting Ltd. Get in touch on +447779577969 to discuss improving your flow of data from Magento to SAP B1 by using Codeless BPA.
