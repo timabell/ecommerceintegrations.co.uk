@@ -1,6 +1,7 @@
 baseurl: '/'
 permalink: pretty
 title: 'eCommerce Integrations'
+slogan: 'Seamless Order Flow'
 
 logo:
   mobile: "images/logo/logo.svg"
