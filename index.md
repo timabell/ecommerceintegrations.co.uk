@@ -10,4 +10,4 @@ show_call_box: true
 
 # eCommerce Integrations
 
-A new systems integration business focussing on eCommerce, founded by [Tim Abell](https://www.linkedin.com/in/timabell/) and currently trading as Charm Consulting Ltd. Get in touch on +447779577969 to discuss improving your flow of data from Magento to SAP B1 by using Codeless BPA.
+A new systems integration business focussing on eCommerce, founded by [Tim Abell](https://www.linkedin.com/in/timabell/) and currently trading as Charm Consulting Ltd. Get in touch to discuss improving your flow of data from Magento to SAP B1 by using Codeless BPA.
