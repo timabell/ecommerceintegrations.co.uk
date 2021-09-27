@@ -8,6 +8,14 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# eCommerce Integrations
+# Magento ❤️  SAP B1
 
-A new systems integration business focussing on eCommerce, founded by [Tim Abell](https://www.linkedin.com/in/timabell/) and currently trading as Charm Consulting Ltd. Get in touch to discuss improving your flow of data from Magento to SAP B1 by using Codeless BPA.
+We're helping CTOs make orders flow seamlessly from Magento shopfronts into SAP Business One ERP systems.
+
+Stop paying your valuable staff to copy orders manually into SAP B1 so you can focus on supporting the next level of sales instead of just coping with this level.
+
+We are a new systems integration business focussing on eCommerce, founded by [Tim Abell](https://www.linkedin.com/in/timabell/) in 2021.
+
+Get in touch and let's make your processes smooth like silk.
+
+
