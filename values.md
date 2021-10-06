@@ -5,6 +5,8 @@ description: Values
 bodyClass: page-values
 ---
 
+![photo of people holding hands on bikes at sunset, just for the mood](/images/everton-vila-AsahNlC0VhQ-unsplash.jpg)
+
 ## Our Values
 
 * Technical excellence.
