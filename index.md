@@ -12,9 +12,9 @@ show_call_box: false
 
 We're helping CTOs make orders flow seamlessly from Magento shopfronts into SAP Business One ERP systems.
 
-Stop paying your valuable staff to copy orders manually into SAP B1 so you can focus on supporting the next level of sales instead of just coping with this level.
+Stop paying your valuable staff to copy orders manually into SAP B1 so you can focus on growing to the next level of sales.
 
-We are a new systems integration business founded in 2021 by [Tim Abell](https://www.linkedin.com/in/timabell/) who has 20 years of deep technical experience as a programmer and all-round problem-solver.
+We are a new systems integration business founded in 2021 by [Tim Abell](https://www.linkedin.com/in/timabell/) who has 20+ years of deep technical experience as a programmer and all-round problem-solver.
 
 Get in touch and let's make your processes run seamlessly.
 
