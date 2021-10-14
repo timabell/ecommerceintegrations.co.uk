@@ -1,0 +1,11 @@
+.intro-video {
+  iframe {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 15px;
+    @include media-breakpoint-up(md) {
+      width: 500px;
+      height: 315px;
+    }
+  }
+}

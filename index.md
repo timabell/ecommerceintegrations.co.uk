@@ -10,7 +10,9 @@ show_call_box: false
 
 # Magento ❤️  SAP B1
 
+<div class="intro-video">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KIUXWqOPDvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 We're helping CTOs make orders flow seamlessly from Magento shopfronts into SAP Business One ERP systems.
 
