@@ -10,6 +10,8 @@ show_call_box: false
 
 # Magento ❤️  SAP B1
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KIUXWqOPDvA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 We're helping CTOs make orders flow seamlessly from Magento shopfronts into SAP Business One ERP systems.
 
 Stop paying your valuable staff to copy orders manually into SAP B1 so you can focus on growing to the next level of sales.
