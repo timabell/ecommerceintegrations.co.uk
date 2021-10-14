@@ -1,5 +1,5 @@
 main:
-  - name: "Contact"
+  - name: "Book a call"
     url: "/contact/"
     weight: 2
   - name: "About"
