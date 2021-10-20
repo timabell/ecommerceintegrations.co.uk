@@ -16,6 +16,8 @@ bodyClass: page-values
 * A desire to make you, your customers and your staff successful.
 * Inclusivity:
 	* We have all walked different paths in life. We value you for you.
+* Openness:
+	* We have a drive to share the beautiful knowledge we have gained with all who want to know it. The more you know the better we are together. Some technical folk like to use phrases like "they don't need to know" or "they wouldn't be able to understand", we think this is disrespectful to those we work to help. We will gladly sharing our expertise with anyone who wants to learn more. We love it when people ask questions. Our secret sauce isn't our proprietary knowledge; it's our values and commitment to your success.
 * Technical excellence.
 * Positivity and encouragement:
 	* We assume the best intentions of others, and give the best of ourselves to help others
